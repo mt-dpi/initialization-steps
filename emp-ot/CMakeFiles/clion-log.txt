@@ -1,0 +1,4 @@
+Cannot generate into /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot
+It is already used for project /home/kingslanding/Documents/emp-sh2pc/emp-ot
+
+Please either delete it manually or select another generation directory

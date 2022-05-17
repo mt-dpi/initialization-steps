@@ -1,0 +1,17 @@
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/install/strip.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/install/local.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/edit_cache.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/test.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/rebuild_cache.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/list_install_components.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/install.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/test/CMakeFiles/install/strip.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/test/CMakeFiles/install/local.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/test/CMakeFiles/install.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/test/CMakeFiles/list_install_components.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/test/CMakeFiles/rebuild_cache.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/test/CMakeFiles/test_ot.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/test/CMakeFiles/test.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/test/CMakeFiles/test_ferret.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/test/CMakeFiles/test_bench_lpn.dir
+/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/test/CMakeFiles/edit_cache.dir

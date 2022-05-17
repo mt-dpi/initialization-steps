@@ -1,0 +1,912 @@
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/emp-sh2pc/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_d2463/fast && /usr/bin/make  -f CMakeFiles/cmTC_d2463.dir/build.make CMakeFiles/cmTC_d2463.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/emp-sh2pc/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d2463.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_d2463.dir/src.c.o -c /home/kingslanding/Documents/emp-sh2pc/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_d2463
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d2463.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_d2463.dir/src.c.o -o cmTC_d2463 
+make[1]: Leaving directory '/home/kingslanding/Documents/emp-sh2pc/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_b04c8/fast && /usr/bin/make  -f CMakeFiles/cmTC_b04c8.dir/build.make CMakeFiles/cmTC_b04c8.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b04c8.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_b04c8.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_b04c8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b04c8.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_b04c8.dir/src.c.o -o cmTC_b04c8 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cac31/fast && /usr/bin/make  -f CMakeFiles/cmTC_cac31.dir/build.make CMakeFiles/cmTC_cac31.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cac31.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_cac31.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_cac31
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cac31.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_cac31.dir/src.c.o -o cmTC_cac31 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_a8597/fast && /usr/bin/make  -f CMakeFiles/cmTC_a8597.dir/build.make CMakeFiles/cmTC_a8597.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a8597.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_a8597.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_a8597
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a8597.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_a8597.dir/src.c.o -o cmTC_a8597 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_83b3d/fast && /usr/bin/make  -f CMakeFiles/cmTC_83b3d.dir/build.make CMakeFiles/cmTC_83b3d.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_83b3d.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_83b3d.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_83b3d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_83b3d.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_83b3d.dir/src.c.o -o cmTC_83b3d 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_f4116/fast && /usr/bin/make  -f CMakeFiles/cmTC_f4116.dir/build.make CMakeFiles/cmTC_f4116.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f4116.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_f4116.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_f4116
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f4116.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_f4116.dir/src.c.o -o cmTC_f4116 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_da5e8/fast && /usr/bin/make  -f CMakeFiles/cmTC_da5e8.dir/build.make CMakeFiles/cmTC_da5e8.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_da5e8.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_da5e8.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_da5e8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_da5e8.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_da5e8.dir/src.c.o -o cmTC_da5e8 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_87226/fast && /usr/bin/make  -f CMakeFiles/cmTC_87226.dir/build.make CMakeFiles/cmTC_87226.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_87226.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_87226.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_87226
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_87226.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_87226.dir/src.c.o -o cmTC_87226 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cd8e7/fast && /usr/bin/make  -f CMakeFiles/cmTC_cd8e7.dir/build.make CMakeFiles/cmTC_cd8e7.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cd8e7.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_cd8e7.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_cd8e7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cd8e7.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_cd8e7.dir/src.c.o -o cmTC_cd8e7 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_324bb/fast && /usr/bin/make  -f CMakeFiles/cmTC_324bb.dir/build.make CMakeFiles/cmTC_324bb.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_324bb.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_324bb.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_324bb
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_324bb.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_324bb.dir/src.c.o -o cmTC_324bb 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_3328e/fast && /usr/bin/make  -f CMakeFiles/cmTC_3328e.dir/build.make CMakeFiles/cmTC_3328e.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3328e.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_3328e.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_3328e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3328e.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_3328e.dir/src.c.o -o cmTC_3328e 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_4bebe/fast && /usr/bin/make  -f CMakeFiles/cmTC_4bebe.dir/build.make CMakeFiles/cmTC_4bebe.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4bebe.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_4bebe.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_4bebe
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4bebe.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_4bebe.dir/src.c.o -o cmTC_4bebe 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_71cb8/fast && /usr/bin/make  -f CMakeFiles/cmTC_71cb8.dir/build.make CMakeFiles/cmTC_71cb8.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_71cb8.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_71cb8.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_71cb8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_71cb8.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_71cb8.dir/src.c.o -o cmTC_71cb8 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_a9324/fast && /usr/bin/make  -f CMakeFiles/cmTC_a9324.dir/build.make CMakeFiles/cmTC_a9324.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a9324.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_a9324.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_a9324
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a9324.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_a9324.dir/src.c.o -o cmTC_a9324 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_63173/fast && /usr/bin/make  -f CMakeFiles/cmTC_63173.dir/build.make CMakeFiles/cmTC_63173.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_63173.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_63173.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_63173
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_63173.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_63173.dir/src.c.o -o cmTC_63173 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_6ffc8/fast && /usr/bin/make  -f CMakeFiles/cmTC_6ffc8.dir/build.make CMakeFiles/cmTC_6ffc8.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6ffc8.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_6ffc8.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_6ffc8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6ffc8.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_6ffc8.dir/src.c.o -o cmTC_6ffc8 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_196cd/fast && /usr/bin/make  -f CMakeFiles/cmTC_196cd.dir/build.make CMakeFiles/cmTC_196cd.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_196cd.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_196cd.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_196cd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_196cd.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_196cd.dir/src.c.o -o cmTC_196cd 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_7704c/fast && /usr/bin/make  -f CMakeFiles/cmTC_7704c.dir/build.make CMakeFiles/cmTC_7704c.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7704c.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_7704c.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_7704c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7704c.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_7704c.dir/src.c.o -o cmTC_7704c 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_25e93/fast && /usr/bin/make  -f CMakeFiles/cmTC_25e93.dir/build.make CMakeFiles/cmTC_25e93.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_25e93.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_25e93.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_25e93
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_25e93.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_25e93.dir/src.c.o -o cmTC_25e93 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_042f4/fast && /usr/bin/make  -f CMakeFiles/cmTC_042f4.dir/build.make CMakeFiles/cmTC_042f4.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_042f4.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_042f4.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_042f4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_042f4.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_042f4.dir/src.c.o -o cmTC_042f4 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_14c02/fast && /usr/bin/make  -f CMakeFiles/cmTC_14c02.dir/build.make CMakeFiles/cmTC_14c02.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_14c02.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_14c02.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_14c02
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_14c02.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_14c02.dir/src.c.o -o cmTC_14c02 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_0cca4/fast && /usr/bin/make  -f CMakeFiles/cmTC_0cca4.dir/build.make CMakeFiles/cmTC_0cca4.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0cca4.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_0cca4.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_0cca4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0cca4.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_0cca4.dir/src.c.o -o cmTC_0cca4 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_4a6e4/fast && /usr/bin/make  -f CMakeFiles/cmTC_4a6e4.dir/build.make CMakeFiles/cmTC_4a6e4.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4a6e4.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_4a6e4.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_4a6e4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4a6e4.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_4a6e4.dir/src.c.o -o cmTC_4a6e4 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_602b6/fast && /usr/bin/make  -f CMakeFiles/cmTC_602b6.dir/build.make CMakeFiles/cmTC_602b6.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_602b6.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_602b6.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_602b6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_602b6.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_602b6.dir/src.c.o -o cmTC_602b6 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_8624f/fast && /usr/bin/make  -f CMakeFiles/cmTC_8624f.dir/build.make CMakeFiles/cmTC_8624f.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8624f.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_8624f.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_8624f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8624f.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_8624f.dir/src.c.o -o cmTC_8624f 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_650ab/fast && /usr/bin/make  -f CMakeFiles/cmTC_650ab.dir/build.make CMakeFiles/cmTC_650ab.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_650ab.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_650ab.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_650ab
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_650ab.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_650ab.dir/src.c.o -o cmTC_650ab 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_55e67/fast && /usr/bin/make  -f CMakeFiles/cmTC_55e67.dir/build.make CMakeFiles/cmTC_55e67.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_55e67.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_55e67.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_55e67
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_55e67.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_55e67.dir/src.c.o -o cmTC_55e67 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_e3609/fast && /usr/bin/make  -f CMakeFiles/cmTC_e3609.dir/build.make CMakeFiles/cmTC_e3609.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e3609.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_e3609.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_e3609
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e3609.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_e3609.dir/src.c.o -o cmTC_e3609 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_ddf1f/fast && /usr/bin/make  -f CMakeFiles/cmTC_ddf1f.dir/build.make CMakeFiles/cmTC_ddf1f.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ddf1f.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_ddf1f.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_ddf1f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ddf1f.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_ddf1f.dir/src.c.o -o cmTC_ddf1f 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_27add/fast && /usr/bin/make  -f CMakeFiles/cmTC_27add.dir/build.make CMakeFiles/cmTC_27add.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_27add.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_27add.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_27add
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_27add.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_27add.dir/src.c.o -o cmTC_27add 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_16e0b/fast && /usr/bin/make  -f CMakeFiles/cmTC_16e0b.dir/build.make CMakeFiles/cmTC_16e0b.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_16e0b.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_16e0b.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_16e0b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_16e0b.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_16e0b.dir/src.c.o -o cmTC_16e0b 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cfb22/fast && /usr/bin/make  -f CMakeFiles/cmTC_cfb22.dir/build.make CMakeFiles/cmTC_cfb22.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cfb22.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_cfb22.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_cfb22
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cfb22.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_cfb22.dir/src.c.o -o cmTC_cfb22 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_07264/fast && /usr/bin/make  -f CMakeFiles/cmTC_07264.dir/build.make CMakeFiles/cmTC_07264.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_07264.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_07264.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_07264
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_07264.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_07264.dir/src.c.o -o cmTC_07264 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_0204d/fast && /usr/bin/make  -f CMakeFiles/cmTC_0204d.dir/build.make CMakeFiles/cmTC_0204d.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0204d.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_0204d.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_0204d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0204d.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_0204d.dir/src.c.o -o cmTC_0204d 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_d11ca/fast && /usr/bin/make  -f CMakeFiles/cmTC_d11ca.dir/build.make CMakeFiles/cmTC_d11ca.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d11ca.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_d11ca.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_d11ca
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d11ca.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_d11ca.dir/src.c.o -o cmTC_d11ca 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_f6a17/fast && /usr/bin/make  -f CMakeFiles/cmTC_f6a17.dir/build.make CMakeFiles/cmTC_f6a17.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f6a17.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_f6a17.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_f6a17
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f6a17.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_f6a17.dir/src.c.o -o cmTC_f6a17 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_37fa1/fast && /usr/bin/make  -f CMakeFiles/cmTC_37fa1.dir/build.make CMakeFiles/cmTC_37fa1.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_37fa1.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_37fa1.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_37fa1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_37fa1.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_37fa1.dir/src.c.o -o cmTC_37fa1 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
+Performing C SOURCE FILE Test RDSEED_RUN_RESULT failed with the following compile output:
+Change Dir: /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_0e414/fast && /usr/bin/make  -f CMakeFiles/cmTC_0e414.dir/build.make CMakeFiles/cmTC_0e414.dir/build
+make[1]: Entering directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0e414.dir/src.c.o
+/usr/bin/cc -DRDSEED_RUN_RESULT  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -o CMakeFiles/cmTC_0e414.dir/src.c.o -c /home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_0e414
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0e414.dir/link.txt --verbose=1
+/usr/bin/cc  -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -mrdseed -rdynamic CMakeFiles/cmTC_0e414.dir/src.c.o -o cmTC_0e414 
+make[1]: Leaving directory '/home/kingslanding/Documents/dpi-implementation/emp-related/emp-ot/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+Illegal instruction
+Return value: FAILED_TO_RUN
+Source file was:
+#include <x86intrin.h>
+int main(){
+unsigned long long r;
+_rdseed64_step(&r);
+return 0;
+}
+
